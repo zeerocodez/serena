@@ -1,0 +1,8 @@
+{
+  "name": "Remix Serena Diamond Bespoke",
+  "description": "High-end luxury ready-to-wear corporate attire, bespoke Nigerian native wears, and executive fashion for women in Lagos, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
